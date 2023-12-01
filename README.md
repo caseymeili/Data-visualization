@@ -1,6 +1,11 @@
 # Data-visualization
 Miscellaneous data visualizations (R + ggplot2)
 
+**Abundance Box Plots**
+
+* Box plots for genus abundances across all sequences
+* Box plots grouped by host identity (family and species) 
+
 
 **Amplicon Bar Charts**
 
