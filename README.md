@@ -12,8 +12,8 @@ Miscellaneous data visualizations (R + ggplot2)
 * Single bar chart of pooled data across a dataset
 
 
-**PCoA**
-* PCoA plots colored by variable (host animal and sample type)
+**PCoA and NMDS**
+* PCoA and NMDS plots colored by variable (host animal and sample type) using weighted Unifrac
 * Centroid distance calculations and box plots
 
 **Mapping**
