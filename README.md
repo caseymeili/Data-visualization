@@ -12,6 +12,11 @@ Miscellaneous data visualizations (R + ggplot2)
 * Single bar chart of pooled data across a dataset
 
 
+**Flow Progenitor Bar Graphs**
+* Bar graphs of average % of multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups from FlowJo data (with significance levels plotted)
+* Scatter plot for CFUs/g for different sample types
+
+
 **PCoA and NMDS**
 * PCoA and NMDS plots colored by variable (host animal and sample type) using weighted Unifrac
 * Centroid distance calculations and box plots
