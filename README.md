@@ -12,9 +12,9 @@ Miscellaneous data visualizations (R + ggplot2)
 * Single bar chart of pooled data across a dataset
 
 
-**Flow Progenitor Bar Graphs**
-* Bar graphs of average % of multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups + control
-  * Individual points + bar (average) + significance level (t-test)
+**Flow Progenitor Plotting**
+* Bar graphs of %  multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups + control
+  * Individual data points plotted + bar (average) + significance level (t-test)
 * Scatter plot for CFUs/g for different sample types
 
 
