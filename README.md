@@ -13,7 +13,8 @@ Miscellaneous data visualizations (R + ggplot2)
 
 
 **Flow Progenitor Bar Graphs**
-* Bar graphs of average % of multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups from FlowJo data (with significance levels plotted)
+* Bar graphs of average % of multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups + control
+  * Individual points + bar (average) + significance level (t-test)
 * Scatter plot for CFUs/g for different sample types
 
 
