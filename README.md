@@ -4,9 +4,9 @@ Miscellaneous data visualizations (R + ggplot2)
 **Abundance Box Plots**
 * Box plots for genus abundances across all sequences
 * Box plots grouped by host identity (family and species) 
-<img width="947" alt="image" src="https://github.com/caseymeili/Data-visualization/assets/114955240/065b1cd4-5ab7-44fc-abea-18ca2b2a3360">
+<img width="942" alt="image" src="https://github.com/caseymeili/Data-visualization/assets/114955240/ee71c035-8a54-432b-899c-b8cc41108eb6">
 
-![image](https://github.com/caseymeili/Data-visualization/assets/114955240/69fb6ba7-9758-4ecf-ab56-1e8a938449f6)
+![image](https://github.com/caseymeili/Data-visualization/assets/114955240/8441830b-c873-4f5a-aa0a-7274ed4b2f82)
 
 
 
@@ -34,6 +34,8 @@ Miscellaneous data visualizations (R + ggplot2)
 <img width="1239" alt="image" src="https://github.com/caseymeili/Data-visualization/assets/114955240/3c71f0de-fea4-4dcd-9ebd-b7f49c38cd63">
 
 ![image](https://github.com/caseymeili/Data-visualization/assets/114955240/13fc4e1a-e5c9-417f-9456-315ff59d97c9)
+
+<img width="874" alt="image" src="https://github.com/caseymeili/Data-visualization/assets/114955240/2be77c7f-883a-461b-873d-03611bbf2e90">
 
 
 
