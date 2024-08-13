@@ -27,6 +27,7 @@ Miscellaneous data visualizations (R + ggplot2)
 
 
 
+
 **Flow Progenitor Plots**
 * Bar graphs of %  multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups + control
   * Individual data points plotted + bar (average) + significance level (t-test)
