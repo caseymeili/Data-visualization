@@ -19,6 +19,13 @@ Miscellaneous data visualizations (R + ggplot2)
 <img width="340" alt="image" src="https://github.com/caseymeili/Data-visualization/assets/114955240/b8a2200a-107c-42bd-94bb-1013ac2cbf5e">
 
 
+**Cytokine Panel Bar Charts**
+* Bar charts for comparing cytokine levels between two treatment groups using data from LEGENDplex cytokine panel and analysis
+  * Individual data points plotted + bar (average) + significance level (t-test)
+[CXCL10.pdf](https://github.com/user-attachments/files/16605384/CXCL10.pdf)
+
+
+
 
 **Flow Progenitor Plots**
 * Bar graphs of %  multi-potent progenitors (MPPs) and common progenitors (CPs) for two treatment groups + control
