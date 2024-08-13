@@ -22,7 +22,7 @@ Miscellaneous data visualizations (R + ggplot2)
 **Cytokine Panel Bar Charts**
 * Bar charts for comparing cytokine levels between two treatment groups using data from LEGENDplex cytokine panel and analysis
   * Individual data points plotted + bar (average) + significance level (t-test)
-[CXCL10.pdf](https://github.com/user-attachments/files/16605384/CXCL10.pdf)
+<img width="468" alt="image" src="https://github.com/user-attachments/files/16605384/CXCL10.pdf">
 
 
 
